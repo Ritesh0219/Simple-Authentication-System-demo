@@ -1,0 +1,40 @@
+body{
+    background-color:#4070F4;
+}
+container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 130px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ #email {
+    margin-bottom : 7px;
+    height: 2rem; 
+    border-radius: 5px;
+}
+
+#otp{
+    height: 2rem; 
+    border-radius: 5px;
+}
+
+container1 button {
+    margin: 1px;  
+    height: 2rem;
+    width: 10.5rem;
+    color: white;
+    background-color: #4070F4;
+    border-radius: 5px;
+}
+
+#OTP{
+    margin-top: 7px ;
+    margin-bottom: 15px;
+}
